@@ -24,4 +24,4 @@ To utilize this plugin, ensure that the Gravity Forms plugin is installed and ac
 2. Upload and activate the plugin via WordPress admin or FTP.
 3. Ensure the Gravity Forms plugin is installed and activated.
 
-For more details and usage instructions, visit [GitHub Repository].
+For more details and usage instructions, visit https://github.com/Arminjamali/ACF_Gravity_Forms_Select.
